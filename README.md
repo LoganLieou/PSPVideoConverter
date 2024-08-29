@@ -14,3 +14,9 @@ do note: that this has only been tested so far on a PSP 1000 system, with mp4
 videos so I cannot say weather this script will work for you if you are using
 say avi or mkv videos although I'm pretty certian this works for all PSP
 systems.
+
+## TODO
+
+- [ ] Ensure support for other formats
+- [ ] GUI
+- [ ] Installer
